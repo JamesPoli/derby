@@ -1,0 +1,19 @@
+----------------------------------------------------------------
+Mon Mar 21 19:12:44 EDT 2016:
+Booting Derby version The Apache Software Foundation - Apache Derby - 10.12.1.1 - (1704137): instance a816c00e-0153-9b73-b241-00000343a528 
+on database directory /Users/jpoli/Documents/workspace/SimpleApp/recipEasy with class loader sun.misc.Launcher$AppClassLoader@511d50c0 
+Loaded from file:/Users/jpoli/Downloads/db-derby-10.12.1.1-bin/lib/derby.jar
+java.vendor=Oracle Corporation
+java.runtime.version=1.8.0_60-b27
+user.dir=/Users/jpoli/Documents/workspace/SimpleApp
+os.name=Mac OS X
+os.arch=x86_64
+os.version=10.10.5
+derby.system.home=null
+Database Class Loader started - derby.database.classpath=''
+----------------------------------------------------------------
+Mon Mar 21 20:10:29 EDT 2016: Shutting down Derby engine
+----------------------------------------------------------------
+Mon Mar 21 20:10:29 EDT 2016:
+Shutting down instance a816c00e-0153-9b73-b241-00000343a528 on database directory /Users/jpoli/Documents/workspace/SimpleApp/recipEasy with class loader sun.misc.Launcher$AppClassLoader@511d50c0 
+----------------------------------------------------------------
